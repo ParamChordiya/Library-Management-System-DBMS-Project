@@ -32,8 +32,9 @@ def issueb():
     mydb.commit()
     print("...............")
     print("Book issued to :",name)
-    main()
     bookup(code,-1)
+    main()
+    
 
 def submitb():
     name = input("Enter name:")
