@@ -3,4 +3,5 @@
 
 ## To run this project simply run the main.py file and you can get output in the command line
 
-# to Install required packages run this command: pip install -r requirements.txt
+# to Install required packages run this command: 
+pip install -r requirements.txt
